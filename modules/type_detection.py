@@ -108,6 +108,11 @@ def classify_column(series: pd.Series) -> ColumnClassification:
     )
 
 
+def columns_by_type(classifications: list[ColumnClassification], target: ColumnType) -> list[str]:
+    """Devuelve los nombres de columna cuyo tipo detectado coincide con `target`."""
+    return [c.column for c in classifications if c.detected_type == target]
+
+
 def detect_types(df: pd.DataFrame) -> list[ColumnClassification]:
     """Clasifica todas las columnas de un DataFrame."""
     return [classify_column(df[col]) for col in df.columns]
