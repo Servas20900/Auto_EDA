@@ -1,7 +1,7 @@
 """Deteccion automatica del tipo de cada columna de un DataFrame.
 
-Cubre RF-02 (clasificacion automatica: numerica, categorica, temporal,
-booleana) y sirve de base para RF-03, ya que cada resultado incluye una
+(clasificacion automatica: numerica, categorica, temporal,
+booleana) y cada resultado incluye una
 razon legible que la UI puede mostrar antes de permitir un ajuste manual.
 """
 

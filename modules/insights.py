@@ -1,6 +1,6 @@
 """Generacion de texto interpretativo a partir de resultados ya calculados.
 
-Cubre RF-11: reglas basadas en umbrales que traducen resultados numericos
+reglas basadas en umbrales que traducen resultados numericos
 (limpieza, correlaciones, outliers, clusters, importancia de variables) en
 frases en lenguaje natural para el resumen del dashboard y del reporte.
 """

@@ -1,6 +1,6 @@
 """Relaciones bivariadas y multivariadas relevantes entre variables.
 
-Cubre RF-09: identifica los pares de columnas mas correlacionados y, cuando
+identifica los pares de columnas mas correlacionados y, cuando
 el dataset parece tener una variable objetivo, la importancia de cada
 variable numerica sobre ese objetivo (F-test: ANOVA si el objetivo es
 categorico/booleano, regresion si es numerico).

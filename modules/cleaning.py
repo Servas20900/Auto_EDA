@@ -1,6 +1,6 @@
 """Limpieza basica y configurable de un dataset ya clasificado por tipos.
 
-Cubre RF-04: manejo de nulos, duplicados y tipos inconsistentes, con
+manejo de nulos, duplicados y tipos inconsistentes, con
 estrategias que la UI puede exponer como opciones al usuario.
 """
 

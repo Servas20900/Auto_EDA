@@ -1,6 +1,6 @@
 """Exportacion del reporte de analisis a un archivo HTML autocontenido.
 
-Cubre RF-12. Se elige HTML (en vez de PDF) porque el resultado es un unico
+Se elige HTML (en vez de PDF) porque el resultado es un unico
 archivo auto-contenido, sin dependencias nativas fragiles (p.ej. weasyprint
 necesita librerias del sistema), y plotly.js se embebe inline en vez de via
 CDN para que el reporte pueda abrirse sin conexion a internet (RNF-05).

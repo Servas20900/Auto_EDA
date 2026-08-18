@@ -1,6 +1,6 @@
 """Carga y validacion de archivos CSV/Excel subidos por el usuario.
 
-Cubre RF-01 (carga de uno o varios archivos) y RNF-03 (manejo controlado
+(carga de uno o varios archivos) y  (manejo controlado
 de errores: archivo corrupto, vacio o con formato no soportado).
 """
 

@@ -1,7 +1,7 @@
 """Estadisticas descriptivas y matrices de correlacion.
 
-Cubre RF-05 (estadisticas descriptivas para variables numericas, categoricas,
-booleanas y temporales) y RF-06 (matriz de correlacion Pearson/Spearman).
+(estadisticas descriptivas para variables numericas, categoricas,
+booleanas y temporales) y (matriz de correlacion Pearson/Spearman).
 """
 
 from __future__ import annotations

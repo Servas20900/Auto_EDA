@@ -1,8 +1,8 @@
 """Generacion de graficos interactivos con plotly.
 
-Cubre RF-10: histogramas, boxplots, scatter plots, heatmap de correlacion
-(Fase 2) y scatter/boxplot coloreados por grupo, usados tanto para resaltar
-outliers como para el grafico de clusters (Fase 3).
+histogramas, boxplots, scatter plots, heatmap de correlacion
+ y scatter/boxplot coloreados por grupo, usados tanto para resaltar
+outliers como para el grafico de clusters .
 """
 
 from __future__ import annotations

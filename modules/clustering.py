@@ -1,6 +1,6 @@
 """Clustering automatico: K-means y DBSCAN sobre variables numericas.
 
-Cubre RF-08: seleccion automatica de un valor razonable de k para K-means
+seleccion automatica de un valor razonable de k para K-means
 (metodo del codo y silhouette) y clustering por densidad con DBSCAN, con
 sugerencia automatica de eps.
 """

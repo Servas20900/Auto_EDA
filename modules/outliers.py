@@ -1,6 +1,6 @@
 """Deteccion de valores atipicos con Z-score, IQR e Isolation Forest.
 
-Cubre RF-07: los tres metodos operan sobre las columnas numericas y sus
+los tres metodos operan sobre las columnas numericas y sus
 resultados se pueden comparar entre si (misma fila del DataFrame original,
 marcada como atipica o no por cada metodo).
 """
